@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5a1b52dd","path":"/how-to-use/customize-stub.html","title":"Customize Stub","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1675718013000},"filePathRelative":"how-to-use/customize-stub.md"}');export{t as data};

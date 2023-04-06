@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3f1c8522","path":"/helpers/artisan.html","title":"Artisan Command","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1665598176000},"filePathRelative":"helpers/artisan.md"}');export{e as data};

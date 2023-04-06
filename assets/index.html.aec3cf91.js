@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-675f699a","path":"/prologue/upgrade-guide/","title":"Upgrade Guide","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1674319478000},"filePathRelative":"prologue/upgrade-guide/index.md"}');export{e as data};
